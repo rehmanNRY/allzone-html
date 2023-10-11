@@ -45,13 +45,13 @@ header nav .nav_buttons button{
     border-radius: 22px;
     font-weight: 600;
     padding: 9px 17px;
-    margin: 0 3px;
     border: 2px solid #00ff77;
     cursor: pointer;
 }
 header nav .nav_buttons button:nth-child(1){
     background: transparent;
     color: #25ff8b;
+    margin: 0 6px;
 }
 header nav .nav_buttons button:nth-child(2){
     color: black;
@@ -89,10 +89,11 @@ header nav .nav_buttons button:nth-child(2):hover{
     line-height: 80px;
 }
 .home .home_left p{
+    margin-top: 15px;
     font-size: 18px;
 }
 .home .home_left .home_buttons{
-    margin-top: 40px;
+    margin-top: 25px;
 }
 .home .home_left .home_buttons button{
     padding: 10px 17px;
